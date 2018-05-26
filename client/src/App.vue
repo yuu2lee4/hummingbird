@@ -83,40 +83,12 @@ export default class App extends Vue {
     password: '',
   }
   quickList = [{
-    label: '产品全图',
-    path: 'http://uimanager.demo.ued.g7s.chinawayltd.com',
+    label: '链接一',
+    path: 'https://baidu.com',
     open: true,
   }, {
-    label: 'Vue-Beauty',
-    path: 'https://fe-driver.github.io/vue-beauty',
-    open: true,
-  }, {
-    label: 'Yapi',
-    path: 'http://yapi.demo.ued.g7s.chinawayltd.com',
-    open: true,
-  }, {
-    label: 'G7SMap',
-    path: 'http://test.resources.g7s.chinawayltd.com/G7SMap',
-    open: true,
-  }, {
-    label: 'Speed-Index',
-    path: 'http://speedindex.demo.ued.g7s.chinawayltd.com',
-    open: true,
-  }, {
-    label: 'BSBR',
-    path: 'http://wiki.chinawayltd.com/pages/viewpage.action?pageId=26085176',
-    open: true,
-  }, {
-    label: 'CPT',
-    path: 'http://git.chinawayltd.com/frontend/CPT',
-    open: true,
-  }, {
-    label: 'GPT',
-    path: 'http://git.chinawayltd.com/frontend/vue_boot_on_g7s',
-    open: true,
-  }, {
-    label: 'MPT',
-    path: 'http://git.chinawayltd.com/frontend/mobileTemplate',
+    label: '链接二',
+    path: 'http://qq.com',
     open: true,
   }]
   userList = [{
