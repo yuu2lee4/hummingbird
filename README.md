@@ -48,8 +48,8 @@ build/config/default.json照理来说是应该编译的时候自动生成的
 
 ## 展示
 
-![1](https://raw.githubusercontent.com/yuu2lee4/hummingbird/master/static/1.jpg)
+![1](https://raw.githubusercontent.com/yuu2lee4/hummingbird/master/static/1.png)
 
-![2](https://raw.githubusercontent.com/yuu2lee4/hummingbird/master/static/2.jpg)
+![2](https://raw.githubusercontent.com/yuu2lee4/hummingbird/master/static/2.png)
 
-![3](https://raw.githubusercontent.com/yuu2lee4/hummingbird/master/static/3.jpg)
+![3](https://raw.githubusercontent.com/yuu2lee4/hummingbird/master/static/3.png)
