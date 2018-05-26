@@ -32,7 +32,7 @@
     </header>
     <router-view class="content"/>
     <footer class="footer">
-      Copyright © 2018 Powered by G7 UED
+      Copyright © 2018 Powered by XXX
     </footer>
     <modal title="注册" class="modal" :visible.sync="isRegisterShow" :has-footer="false" container-style="padding: 0 25px">
       <my-input class="modal-ipt" placeholder="用户名"></my-input>
