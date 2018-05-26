@@ -6,7 +6,7 @@
 2、vscode打开server，写好配置（见后面），安装依赖  
 3、cmd+shit+B(mac)watch模式  
 4、打开调试模式运行服务器  
-5、vscode打开client，安装依赖并运行(yarn server)
+5、vscode打开client，安装依赖并运行(yarn serve)
 
 ## 初始化数据库：
 建立一个名为hummingbird的数据库，并在categories的集合里插入数据 `{name: '前端', en: 'frontEnd'}`，这里插入的数据跟前端的home页面里的分类是对应的，照理来说应该写个脚本来初始化一下
@@ -45,3 +45,11 @@ build/config/default.json照理来说是应该编译的时候自动生成的
 
 ## 其它说明
 这个项目是我第一次用typescript，很多地方并没有严格规定类型
+
+## 展示
+
+![1](https://raw.githubusercontent.com/yuu2lee4/hummingbird/master/static/1.jpg)
+
+![2](https://raw.githubusercontent.com/yuu2lee4/hummingbird/master/static/2.jpg)
+
+![3](https://raw.githubusercontent.com/yuu2lee4/hummingbird/master/static/3.jpg)
