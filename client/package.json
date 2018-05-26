@@ -1,0 +1,41 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --open",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "clipboard": "^2.0.1",
+    "date-fns": "^1.29.0",
+    "flyio": "^0.5.9",
+    "highlight.js": "^9.12.0",
+    "js-cookie": "^2.2.0",
+    "register-service-worker": "^1.2.0",
+    "timeago.js": "^3.0.2",
+    "vue": "^2.5.16",
+    "vue-class-component": "6.2.0",
+    "vue-property-decorator": "^6.1.0",
+    "vue-router": "^3.0.1",
+    "vue-upload-component": "^2.8.7",
+    "vuex": "^3.0.1",
+    "wangeditor": "^3.1.1",
+    "xss": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^2.1.0",
+    "@vue/cli-plugin-babel": "^3.0.0-beta.11",
+    "@vue/cli-plugin-pwa": "^3.0.0-beta.11",
+    "@vue/cli-plugin-typescript": "^3.0.0-beta.11",
+    "@vue/cli-service": "^3.0.0-beta.11",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "vue-template-compiler": "^2.5.16"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}

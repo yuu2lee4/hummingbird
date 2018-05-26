@@ -1,0 +1,33 @@
+html {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+body {
+    font-family: PingFang SC,Lantinghei SC,Helvetica Neue,Helvetica,Arial,Microsoft YaHei,"微软雅黑",STHeitiSC-Light,simsun,"宋体",WenQuanYi Zen Hei,WenQuanYi Micro Hei,"sans-serif";
+}
+
+@keyframes rotate {
+    to {
+        transform: rotate(405deg);
+    }
+}
+.loading {
+    display: inline-block;
+    color: #848C97;
+    transform: rotate(45deg);
+    animation: rotate 1.2s infinite linear;
+}
+
+::selection {
+    background: #F04B59;
+    color: #fff;
+}
+.w-e-text-container{
+    height: auto!important;
+    min-height: 300px!important;
+
+    .w-e-text{
+        min-height: 300px!important;
+        overflow: hidden!important;
+    }
+}
