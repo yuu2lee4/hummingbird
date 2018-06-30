@@ -13,7 +13,7 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "config": "^1.30.0",
-    "jsonwebtoken": "^8.2.1",
+    "jsonwebtoken": "^8.3.0",
     "koa": "^2.5.1",
     "koa-bodyparser": "^4.2.1",
     "koa-jwt": "3.3.2",
@@ -21,17 +21,17 @@
     "koa-router": "^7.4.0",
     "koa-static2": "^0.1.8",
     "ldapjs": "^1.0.2",
-    "mongoose": "^5.1.2"
+    "mongoose": "^5.1.7"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.1",
     "@types/config": "^0.0.34",
     "@types/jsonwebtoken": "^7.2.7",
-    "@types/koa": "^2.0.45",
-    "@types/koa-bodyparser": "^4.2.0",
-    "@types/koa-router": "^7.0.28",
+    "@types/koa": "^2.0.46",
+    "@types/koa-bodyparser": "^5.0.0",
+    "@types/koa-router": "^7.0.30",
     "@types/ldapjs": "^1.0.3",
-    "@types/mongoose": "^5.0.14",
+    "@types/mongoose": "^5.0.18",
     "tslint": "^5.10.0"
   },
   "engines": {
