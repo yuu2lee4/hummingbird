@@ -4,6 +4,7 @@
     "module": "esnext",
     "strict": true,
     "jsx": "preserve",
+    "importHelpers": true,
     "moduleResolution": "node",
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
@@ -11,8 +12,7 @@
     "sourceMap": true,
     "baseUrl": ".",
     "types": [
-      "node",
-    ],
+      "node"    ],
     "paths": {
       "@/*": [
         "src/*"
@@ -25,7 +25,7 @@
       "es2018",
       "dom",
       "dom.iterable",
-      "scripthost",
+      "scripthost"
     ]
   },
   "include": [

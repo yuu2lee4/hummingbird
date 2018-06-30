@@ -1,6 +1,6 @@
 module.exports = {
   lintOnSave: false,
-  compiler: true,
+  runtimeCompiler: true,
   devServer: {
     proxy: {
       '.*': {
